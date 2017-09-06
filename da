@@ -1,0 +1,91 @@
+[33mcommit a672ea5574fce9ceb6b062f66e1a11596b4a75aa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Barbara Tamisa <barbara.f.silva@caixa.gov.br>
+Date:   Tue Sep 5 16:12:04 2017 -0300
+
+    Incluindo novos paragrafos
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 394c92f..cd9aa07 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -14,5 +14,11 @@[m
+ 		        <li>Permite a edição concorrente de arquivos do projeto</li>[m
+ 		        <li>Não depende de uma conexão ativa com um servidor</li>[m
+ 	        </ul>[m
+[32m+[m		[32m<h3>Principais Problemas:</h3>[m
+[32m+[m	[32m        <ul>[m
+[32m+[m[41m        [m		[32m<li>Resistência a mudança</li>[m
+[32m+[m		[32m        <li>Curva de conhecimento</li>[m
+[32m+[m		[32m        <li>Trabalho na estação e não direto no servidor</li>[m
+[32m+[m	[32m        </ul>[m
+ 	</body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit d98864f4761bc50d24e0594c5a1bafdf2baa2771[m
+Author: Barbara Tamisa <barbara.f.silva@caixa.gov.br>
+Date:   Tue Sep 5 14:33:43 2017 -0300
+
+    Deixando o codigo igual da pagina do curso
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 5c5e4c1..394c92f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -3,5 +3,16 @@[m
+ 	</head>[m
+ 	<body>[m
+ 		<h1>Projeto Bárbara Tâmisa</h1>[m
+[32m+[m		[32m<h1>Git</h1>[m
+[32m+[m	[32m        <h2>Trabalhando em Equipe com Controle e Segurança</h2>[m
+[32m+[m
+[32m+[m	[32m        <p>Um curso que explora os benefícios de utilizar o Git como ferramenta de controle de versão para projetos em qualquer linguagem, em qualquer plataforma.</p>[m
+[32m+[m
+[32m+[m		[32m<h3>Principais benefícios:</h3>[m
+[32m+[m	[32m        <ul>[m
+[32m+[m[41m        [m		[32m<li>Funciona de maneira distribuída</li>[m
+[32m+[m		[32m        <li>Permite a edição concorrente de arquivos do projeto</li>[m
+[32m+[m		[32m        <li>Não depende de uma conexão ativa com um servidor</li>[m
+[32m+[m	[32m        </ul>[m
+ 	</body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit a787a94b88c6efc475f9e4e13e9aed0814e29dff[m
+Author: Barbara Tamisa <barbara.f.silva@caixa.gov.br>
+Date:   Tue Sep 5 14:16:23 2017 -0300
+
+    Titulo da Pagina
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e5825e8..5c5e4c1 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,5 +2,6 @@[m
+ 	<head>[m
+ 	</head>[m
+ 	<body>[m
+[32m+[m		[32m<h1>Projeto Bárbara Tâmisa</h1>[m
+ 	</body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit 40af793c625f7252653804789961e132ef7d5aba[m
+Author: Barbara Tamisa Florentino da Silva <c066288@corp.caixa.gov.br>
+Date:   Tue Sep 5 14:03:18 2017 -0300
+
+    Criando projeto
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e5825e8[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32m<html>[m
+[32m+[m	[32m<head>[m
+[32m+[m	[32m</head>[m
+[32m+[m	[32m<body>[m
+[32m+[m	[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
